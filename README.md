@@ -2,7 +2,9 @@
 -Tenho interesse em analisar e desenvolver sistemas, e futuramente trabalhar em grandes empresas.
 -Atualmente estou aprendendo c++, c, java, python.
 -Meus contatos, email: jvv.moraes05@gmail.com
--LinkedIn: linkedin.com/in/joãomoraes
+-LinkedIn: linkedin.com/in/joãomorae
+
+
 
 <!---
 Jaoomoraes/Jaoomoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
