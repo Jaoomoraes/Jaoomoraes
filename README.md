@@ -1,10 +1,10 @@
--👋Olá, sou @Joaomoraes.
+-👋Hi,I'm @Jaoomoraes.
 
--Tenho interesse em analisar e desenvolver sistemas, e futuramente trabalhar em grandes empresas
+-I’m interested in analyze and developing systems, and in the future working in large companies.
 
--Atualmente estou aprendendo c++, c, java, python.
+-I’m currently learning c++, c, java, python.
 
--Meus contatos, email: jvv.moraes05@gmail.
+-My contacts, email: jvv.moraes05@gmail.
 
 -LinkedIn: linkedin.com/in/joãomoraes
 
